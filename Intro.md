@@ -1,0 +1,21 @@
+# Generative-AI-and-Prompt-Engineering
+## By DataValley
+
+* Duration : 8 weeks course
+
+### Whatis Gen AI??
+* **Subset of AI**
+* It is a type of AI which can generate ** NEW ** content based on the patterns in the given data.
+* It learns from the existed content.
+* **And what type of content?**
+  * Images
+  * Videos
+  * Text
+  * Audio etc..
+* **Applications / Usage of Gen AI** :
+  * content creation
+  * 
+
+### What is Prompt Engineering??
+* Process of Designing Inputs for AI models to get Desired outputs.
+* 
