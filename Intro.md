@@ -23,3 +23,5 @@
 
 ### What is ChatGPT?
 * An AI model that kept training on a massive amount of data.
+* developed by ** OpenAI **
+* 
