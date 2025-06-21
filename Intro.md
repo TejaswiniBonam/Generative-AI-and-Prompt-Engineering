@@ -5,7 +5,7 @@
 
 ### Whatis Gen AI??
 * **Subset of AI**
-* It is a type of AI which can generate ** NEW ** content based on the patterns in the given data.
+* It is a type of AI which can generate **NEW** content based on the patterns in the given data.
 * It learns from the existed content.
 * **And what type of content?**
   * Images
@@ -23,5 +23,5 @@
 
 ### What is ChatGPT?
 * An AI model that kept training on a massive amount of data.
-* developed by ** OpenAI **
+* developed by **OpenAI**
 * 
