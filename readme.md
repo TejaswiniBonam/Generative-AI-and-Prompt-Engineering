@@ -1,4 +1,8 @@
 # ROad Map
+
+
+https://roadmap.sh/prompt-engineering
+
 * Python
 * NumPy, Pandas
 * Intro to AI, ML
@@ -12,3 +16,4 @@
 * Real world project
 * Ethics, Limitation
 * Deploy AI model
+
